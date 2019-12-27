@@ -2,7 +2,7 @@
 
 i am rich app
 
-![I Am Rich app by shafin](https://github.com/shafinr23/iamrich/blob/master/images/Screenshot_1577463326.png)
+![I Am Rich app by shafin](https://github.com/shafinr23/iamrich/blob/master/images/Screenshot_1577463326.png){:height="500px" width="280px"}
 
 
 ## Getting Started
