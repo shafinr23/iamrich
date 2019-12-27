@@ -2,6 +2,9 @@
 
 i am rich app
 
+![I Am Rich app by shafin](https://github.com/shafinr23/iamrich/blob/master/images/Screenshot_1577463326.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
