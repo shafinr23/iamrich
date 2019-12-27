@@ -2,7 +2,9 @@
 
 i am rich app
 
-![I Am Rich app by shafin](https://github.com/shafinr23/iamrich/blob/master/images/Screenshot_1577463326.png){:height="500px" width="280px"}
+
+
+<img src="https://github.com/shafinr23/iamrich/blob/master/images/Screenshot_1577463326.png" alt="I Am Rich app by shafin" height="500px" width="280px">
 
 
 ## Getting Started
